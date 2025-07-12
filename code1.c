@@ -1,4 +1,4 @@
-//sum of array-very big number
+//sum of array - very big number
 #include<stdio.h> 
 int main()
 {
