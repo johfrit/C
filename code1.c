@@ -1,6 +1,6 @@
 //sum of array - very big number
 #include<stdio.h> 
-int main()
+int main() 
 {
     int n,i;
     long sum=0;
